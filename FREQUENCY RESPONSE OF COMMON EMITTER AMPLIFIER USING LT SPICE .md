@@ -1,44 +1,29 @@
-## EC1419-Electronics Circuits-Lab
-**EXP NO:1**
-# <img width="847" height="606" alt="image" src="https://github.com/user-attachments/assets/e89cd66c-73d8-4d5b-845a-89e5ed05bd69" />
+## EXP NO:2
+<img width="858" height="602" alt="image" src="https://github.com/user-attachments/assets/0ab70837-a8e1-408c-8a25-b8cecc6157d8" />
+<img width="823" height="236" alt="image" src="https://github.com/user-attachments/assets/29b1a1ff-3043-425c-9d36-50b3126cd5a6" />
+<img width="681" height="383" alt="image" src="https://github.com/user-attachments/assets/dff2cbda-f10f-4d7f-9aab-9aee3ee219b9" />
+<img width="603" height="787" alt="image" src="https://github.com/user-attachments/assets/d8be42e9-f71a-4ed6-87a5-fc1bc70b0d41" />
+<img width="393" height="482" alt="image" src="https://github.com/user-attachments/assets/6f3d4065-ebb4-4db6-b084-fe9a26b42d34" />
+<img width="624" height="838" alt="image" src="https://github.com/user-attachments/assets/2a4ce955-9d72-4641-84eb-148995d65325" />
+<img width="610" height="426" alt="image" src="https://github.com/user-attachments/assets/42f77f02-6ee4-4029-844c-378198495696" />
 
-<img width="857" height="310" alt="image" src="https://github.com/user-attachments/assets/3081429d-e3e1-492c-bbcd-708b36faee25" />
+## OSCILLATOR DESIGN
+<img width="887" height="808" alt="image" src="https://github.com/user-attachments/assets/82ed0acd-a832-4f36-851f-a0bdbb09dceb" />
+<img width="702" height="320" alt="image" src="https://github.com/user-attachments/assets/0f85c1c7-9640-4713-bf04-81a7f128842f" />
+<img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/4946746e-b580-46e5-b577-5780890576ea" />
 
-## Design
-<img width="878" height="209" alt="image" src="https://github.com/user-attachments/assets/8c8022b5-cbc7-4450-8a77-077c14ade73d" />
-<img width="688" height="520" alt="image" src="https://github.com/user-attachments/assets/6f9a4b27-9f52-4be9-a6b8-3bb90fb54852" />
-<img width="708" height="579" alt="image" src="https://github.com/user-attachments/assets/25008f75-baa1-4e8a-a2cf-578478dc4a93" />
-<img width="799" height="568" alt="image" src="https://github.com/user-attachments/assets/a1e952fe-def7-443e-a84b-c501153c72e3" />
-<img width="831" height="356" alt="image" src="https://github.com/user-attachments/assets/867e75f5-43f2-408f-b6fb-ed6b909db367" />
-
-
-## CIRCUIT DIAGRAM
-
-<img width="538" height="384" alt="image" src="https://github.com/user-attachments/assets/7258c2db-4bc3-4a33-9dfb-6f0bc0749e62" />
-
-
-## MODEL GRAPH
-
-<img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/35db161e-e8a3-4438-a25d-7849c15ee08e" />
-<img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/47c2cdf5-9004-4e0f-89d0-c9eda45cf64c" />
-
-<img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
 ## Tabulation
-<img width="960" height="752" alt="image" src="https://github.com/user-attachments/assets/a7251754-d080-4594-916f-af5243c2a4b6" />
-<img width="960" height="824" alt="image" src="https://github.com/user-attachments/assets/2a312ead-6311-44a0-965e-33e96729326e" />
-
-
+![WhatsApp Image 2025-11-10 at 08 42 46_645e2768](https://github.com/user-attachments/assets/6ea0431e-e8f7-4703-bf7f-c0199d1d1bfc)
+<img width="756" height="544" alt="image" src="https://github.com/user-attachments/assets/882a6ab5-3bb5-442e-838a-ac0658b132fc" />
 
 
 ## Graph
-<img width="1175" height="479" alt="image" src="https://github.com/user-attachments/assets/06ff2161-579d-4645-a8e8-2278aeba5023" />
+![WhatsApp Image 2025-11-10 at 08 47 49_d3e3b3fe](https://github.com/user-attachments/assets/66802b14-8084-45a0-9a6d-578dfb96de3f)
+
+<img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
+
+Practical frequency of Oscillation =50HZ
 
 
-
-## **Result**
-<img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
-
-VOLTAGE GAIN = Av=2dB
-
-BANDWIDTH =Bw=40MHz
+Theoritical Frequency of Oscillation =100.148HZ
